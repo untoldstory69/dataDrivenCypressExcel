@@ -1,0 +1,39 @@
+{
+  "rows": [
+    {
+      "firstName": "kishor",
+      "lastName": "sharma",
+      "username": "ks",
+      "password": "pwd1234565",
+      "message": "Registration successful"
+    },
+    {
+      "firstName": "john",
+      "lastName": "doe",
+      "username": "jh",
+      "password": "pwd1234566",
+      "message": "Registration successful"
+    },
+    {
+      "firstName": "jack",
+      "lastName": "rey",
+      "username": "jr",
+      "password": "pwd1234566",
+      "message": "Registration successful"
+    },
+    {
+      "firstName": "john",
+      "lastName": "wesley",
+      "username": "JW",
+      "password": "pwd1234565",
+      "message": "Registration successful"
+    },
+    {
+      "firstName": "Koala",
+      "lastName": "Kang",
+      "username": "KK",
+      "password": "pwd1234566",
+      "message": "Registration successful"
+    }
+  ]
+}
